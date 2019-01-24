@@ -1,0 +1,9 @@
+H:\偽幣\偽幣\bin\Debug\偽幣.exe
+H:\偽幣\偽幣\bin\Debug\偽幣.pdb
+H:\偽幣\偽幣\bin\Debug\偽幣.xml
+H:\偽幣\偽幣\obj\x86\Debug\偽幣.Form1.resources
+H:\偽幣\偽幣\obj\x86\Debug\偽幣.Resources.resources
+H:\偽幣\偽幣\obj\x86\Debug\偽幣.vbproj.GenerateResource.Cache
+H:\偽幣\偽幣\obj\x86\Debug\偽幣.exe
+H:\偽幣\偽幣\obj\x86\Debug\偽幣.xml
+H:\偽幣\偽幣\obj\x86\Debug\偽幣.pdb
